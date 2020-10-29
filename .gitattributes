@@ -1,0 +1,10 @@
+## spezielle Diffs
+*.pdf     diff=pdf
+*.tex     diff=tex
+*.bib     diff=bib
+
+*.doc     diff=doc
+*.docx    diff=docx
+*.xls     diff=xls
+*.xlsx    diff=xlsx
+*.csv     diff=csv
